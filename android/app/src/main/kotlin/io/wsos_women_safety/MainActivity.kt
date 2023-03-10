@@ -1,4 +1,4 @@
-package com.example.wsos_women_safety
+package io.wsos_women_safety
 
 import io.flutter.embedding.android.FlutterActivity
 
